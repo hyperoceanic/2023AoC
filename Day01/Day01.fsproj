@@ -7,7 +7,7 @@
 
     <ItemGroup>
         <Compile Include="Part01.fs"/>
-        <Compile Include="input001.txt.fs"/>
+        <Content Include="input001.txt"/>
     </ItemGroup>
 
 </Project>
