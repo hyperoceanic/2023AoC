@@ -1,5 +1,3 @@
-module Day01.input001_txt
-
 fivepqxlpninevh2xxsnsgg63pbvdnqptmg
 eight8zlctbmsixhrvbpjb84nnmlcqkzrsix
 hkxqfrqmsixfplbkpkdfzzszjxmdjtdkjlprrvr3gghlrqckqtbng
